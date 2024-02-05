@@ -1,8 +1,22 @@
-# React + Vite
+## Features
+- Convert from USD currency to another
+- View the latest exchange rates
+- User-friendly interface
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- ReactJs
+- Exchange rate API
 
-Currently, two official plugins are available:
+## How to Use
+1. Clone the repository to your local machine.
+2. Open the index.html file in your web browser.
+3. Check the currency you want to convert USD to another, enter the amount, and click on the convert button.
+4. The converted amount will be displayed on the screen.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contact
+For any questions or inquiries, please contact the project owner [Ajith Kumar](https://github.com/dev-ajithkumar).
+
+Thank you for using the currency calculator!
