@@ -1,3 +1,7 @@
+## Live Demo
+Check out the live demo of the currency calculator <a href="https://cosmic-donut-9a46a4.netlify.app/" target="_blank">here</a>.
+
+
 ## Features
 - Convert from USD currency to another
 - View the latest exchange rates
